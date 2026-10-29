@@ -1,0 +1,30 @@
+{
+  "name": "kabocha",
+  "version": "1.0.0",
+  "description": "KABOCHA — Cẩm nang khám phá Hàn Quốc.",
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build"
+  },
+  "keywords": [
+    "travel",
+    "south korea",
+    "react",
+    "map",
+    "tourism"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.80",
+    "@types/react-dom": "^17.0.25",
+    "typescript": "^4.9.5",
+    "vite": "^5.4.10"
+  }
+}
